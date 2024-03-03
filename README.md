@@ -10,4 +10,4 @@ Some of my projects:
 
 🤖 [gobble.bot](https://gobble.bot) - all-to-1 scraper for GPTs
 
-⚡️ [actionize.ai](https://actionize.ai) - custom GPT ations made using no-code platforms
+⚡️ [actionize.ai](https://actionize.ai) - custom GPT actions made using no-code platforms
