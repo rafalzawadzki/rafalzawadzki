@@ -4,7 +4,7 @@ Some of my projects:
 
 💬 [chatwith.tools](https://chatwith.so) - next-gen website chatbot
 
-#️⃣ [supadata.ai(https://supadata.ai) - Web & YT Scraper
+#️⃣ [supadata.ai](https://supadata.ai) - Web & YT Scraper
 
 🏄 [plugin.surf](https://plugin.surf) - ChatGPT plugin directory
 
