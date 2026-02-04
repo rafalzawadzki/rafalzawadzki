@@ -2,9 +2,11 @@
 
 Some of my projects:
 
-💬 [chatwith.tools](https://chatwith.so) - next-gen website chatbot
+💨 [poof.bg](https://poof.bg) - background removal API
 
-#️⃣ [supadata.ai](https://supadata.ai) - Web & YT Scraper
+#️⃣ [supadata.ai](https://supadata.ai) - web & social media scraper
+
+💬 [chatwith.tools](https://chatwith.so) - next-gen website chatbot
 
 🏄 [plugin.surf](https://plugin.surf) - ChatGPT plugin directory
 
