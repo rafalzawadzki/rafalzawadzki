@@ -2,7 +2,7 @@
 
 Some of my projects:
 
-💨 [poof.bg](https://appgoat.ai) - app store intelligence for AI agents
+📱 [appgoat.ai](https://appgoat.ai) - app store intelligence for AI agents
 
 💨 [poof.bg](https://poof.bg) - image & vieeo background removal API
 
