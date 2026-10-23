@@ -2,18 +2,10 @@
 
 Some of my projects:
 
-💨 [poof.bg](https://poof.bg) - background removal API
+💨 [poof.bg](https://appgoat.ai) - app store intelligence for AI agents
 
-#️⃣ [supadata.ai](https://supadata.ai) - web & social media scraper
+💨 [poof.bg](https://poof.bg) - image & vieeo background removal API
 
-💬 [chatwith.tools](https://chatwith.so) - next-gen website chatbot
-
-🏄 [plugin.surf](https://plugin.surf) - ChatGPT plugin directory
-
-✨ [spell.so](https://spell.so) - AI agents
+#️⃣ [supadata.ai](https://supadata.ai) - web & social media intelligence API
 
 🤖 [gobble.bot](https://gobble.bot) - all-to-1 scraper for GPTs
-
-⚡️ [actionize.ai](https://actionize.ai) - custom GPT actions made using no-code platforms
-
-💡 [gist.ly](https://gist.ly) - #1 YouTube Summarizer
